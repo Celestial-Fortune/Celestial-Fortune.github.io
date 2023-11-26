@@ -9,7 +9,12 @@
     background-color: #536bca;
     border-radius: 12.5%;
 }
-
+.navbar-brand:nth-letter(10){
+    font-size: 2rem;
+    font-weight: 800;
+    color: #1b7ceb;
+    font-style: oblique;
+}
 .navbar-brand::first-letter{
     font-size: 2rem;
     font-weight: 800;
